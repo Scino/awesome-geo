@@ -122,6 +122,7 @@
 | **Foglift** | AI-powered GEO readiness scanner analyzing llms.txt, structured data, crawlability, and AI search visibility. Free scan with API and MCP server | [foglift.io](https://foglift.io) |
 | **OneLence** | Marketing analytics with AI visibility from first-party data: AI crawler visits, visitors from AI assistants and their conversions. | [onelence.com](https://onelence.com/ai-visibility) |
 
+
 ## AI Search Engines
 
 ### Conversational AI Search
